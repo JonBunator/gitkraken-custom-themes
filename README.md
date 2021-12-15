@@ -9,8 +9,11 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 - See also the official GitKraken [Documentation](https://support.gitkraken.com/start-here/themes/).
 
 # All themes
-## [Nord](Themes/Nord)
+## [Nord](Themes/Nord) - ([Source](https://www.nordtheme.com/))
 # ![NordTheme](images/nord-dark.png)
+
+## [Solarized](Themes/Solarized) - ([Source](https://github.com/altercation/solarized#features))
+# ![SolarizedTheme](images/solarized-dark.png)
 
 # Contributions
 Contributions are always welcome. New themes should not be too similar to other themes in this repository and should look good.

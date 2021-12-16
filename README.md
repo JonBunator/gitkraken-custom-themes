@@ -9,6 +9,9 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 - See also the official GitKraken [Documentation](https://support.gitkraken.com/start-here/themes/).
 
 # All themes
+## [Dracula](Themes/Dracula) - ([Source](https://draculatheme.com/))
+# ![DraculaTheme](images/dracula.png)
+
 ## [Nord](Themes/Nord) - ([Source](https://www.nordtheme.com/))
 # ![NordTheme](images/nord-dark.png)
 

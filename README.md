@@ -12,6 +12,9 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 ## [Dracula](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Dracula) - ([Source](https://draculatheme.com/))
 # ![DraculaTheme](images/dracula.png)
 
+## [Monokai](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Monokai) - ([Source](https://github.com/microsoft/vscode/blob/main/extensions/theme-monokai/themes/monokai-color-theme.json))
+# ![MonokaiTheme](images/monokai-dark.png)
+
 ## [Night Owl](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/NightOwl) - ([Source](https://github.com/sdras/night-owl-vscode-theme))
 # ![NightOwlTheme](images/night-owl-dark.png)
 

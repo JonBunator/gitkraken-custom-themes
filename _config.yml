@@ -1,0 +1,15 @@
+title: GitKraken Custom Themes
+tagline: Custom GitKraken themes
+description: Collection of custom themes for GitKraken client
+url: https://jonbunator.github.io/gitkraken-custom-themes/
+logo: https://github.com/JonBunator/gitkraken-custom-themes/blob/master/images/logo.png
+
+github:
+  owner_name: JonBunator
+  owner_url: https://github.com/JonBunator
+  repository_url: https://github.com/JonBunator/gitkraken-custom-themes
+
+remote_theme: "lewismiddleton/cayman-dark"
+
+plugins:
+  - jekyll-seo-tag

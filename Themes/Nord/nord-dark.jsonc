@@ -47,10 +47,10 @@
       ".text-color": "@.nord4",
       "text-selected": "@.nord5",
       "text-normal": "fade(@.text-color, 85%)",
-      "text-secondary": "@.nord8",
+      "text-secondary": "@.nord9",
       "text-disabled": "fade(@.text-color, 40%)",
       "text-accent": "@.nord8",
-      "text-inverse": "#13100b",
+      "text-inverse": "@.nord0",
       // buttons
       "btn-text": "@text-normal",
       "btn-text-hover": "@text-selected",

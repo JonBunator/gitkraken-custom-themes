@@ -10,6 +10,7 @@ github:
   repository_url: https://github.com/JonBunator/gitkraken-custom-themes
 
 remote_theme: "lewismiddleton/cayman-dark"
+google_analytics: [G-W0NFZRB9TP]
 
 plugins:
   - jekyll-seo-tag

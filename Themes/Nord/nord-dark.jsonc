@@ -23,6 +23,20 @@
       ".nord13": "#ebcb8b",
       ".nord14": "#a3be8c",
       ".nord15": "#b48ead",
+      //graph colors
+      "graph-red": "saturate(@red, 20%)",
+      "graph-orange": "saturate(@orange, 20%)",
+      "graph-yellow": "saturate(@yellow, 20%)",
+      "graph-green": "saturate(@green, 20%)",
+      "graph-teal": "saturate(@.teal, 20%)",
+      "graph-light-blue": "saturate(lighten(@graph-teal, 15%), 20%)",
+      "graph-dark-blue": "saturate(darken(@graph-teal, 20%), 20%)",
+      "graph-magenta": "saturate(darken(@graph-purple, 10%), 20%)",
+      "graph-purple": "saturate(@.purple, 20%)",
+      "graph-dark-purple": "saturate(darken(@graph-purple, 30%), 20%)",
+
+      ".purple": "@.nord15",
+      ".teal": "@.nord9",
 
       "red": "@.nord11",
       "orange": "@.nord12",

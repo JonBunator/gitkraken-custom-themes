@@ -51,7 +51,6 @@
             "graph-color-7": "mixLess(@yellow, @green, 50%)",
             "graph-color-8": "@green",
             "graph-color-9": "@blue",
-
             // text colors
             ".text-color": "@.base0",
             "text-selected": "@.base1",

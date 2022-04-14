@@ -24,11 +24,12 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 ## [Solarized](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Solarized) - ([Source](https://github.com/altercation/solarized))
 # ![SolarizedDarkTheme](images/solarized-dark.png)
 
+## [Tokyo Night](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/TokyoNight) - ([Source](https://github.com/enkia/tokyo-night-vscode-theme), [Based on](https://github.com/remondevries/tokyonight-gitkraken-theme/))
+# ![TokyoNightTheme](images/tokyo-night.png)
+
 ## [GitKraken-Dark Color Blind](https://github.com/JonBunator/gitkraken-custom-themes/blob/master/Themes/Default%20Themes%20Modified) - ([Source](https://personal.sron.nl/~pault))
 # ![GitKrakenDarkColorBlind](images/gitkraken-dark-color-blind.png)
 
-## [Tokyo Night](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/TokyoNight) - ([Source](https://github.com/remondevries/tokyonight-gitkraken-theme/))
-# ![TokyoNightTheme](images/tokyo-night.png)
 
 # Light Themes
 ## [Light Owl](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/NightOwl) - ([Source](https://github.com/sdras/night-owl-vscode-theme))

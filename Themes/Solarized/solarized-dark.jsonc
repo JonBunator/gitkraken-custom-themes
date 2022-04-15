@@ -34,8 +34,8 @@
       "panel__bg2": "lighten(@.base02, 3%)",
       "input__bg": "@.base03",
       "input-bg-warn-color": "fade(@yellow, 60%)",
-      "panel-border": "@.base02",
-      "section-border": "@.base02",
+      "panel-border": "fade(@.base01, 20%)",
+      "section-border": "fade(@.base01, 20%)",
       "subtle-border": "fade(#FFFFFF, 4%)",
       "modal-overlay-color": "rgba(0,0,0,.5)",
       // graph colors

@@ -42,8 +42,8 @@
       "panel__bg2": "@.nord2",
       "input__bg": "@.nord1",
       "input-bg-warn-color": "fade(@orange, 60%)",
-      "panel-border": "@.nord1",
-      "section-border": "@.nord1",
+      "panel-border": "@.nord2",
+      "section-border": "@.nord2",
       "subtle-border": "fade(#FFFFFF, 4%)",
       "modal-overlay-color": "rgba(0,0,0,.5)",
       // graph colors

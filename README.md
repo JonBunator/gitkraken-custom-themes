@@ -47,5 +47,8 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 ## [Solarized](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Solarized) - ([Source](https://github.com/altercation/solarized))
 # ![SolorizedLightTheme](images/solarized-light.png)
 
+## [GitKraken-Light Color Blind](https://github.com/JonBunator/gitkraken-custom-themes/blob/master/Themes/Default%20Themes%20Modified) - ([Source](https://personal.sron.nl/~pault))
+# ![GitKrakenLightColorBlind](images/gitkraken-light-color-blind.png)
+
 # Contributions
 Contributions are always welcome. New themes should not be too similar to other themes in this repository and should look good.

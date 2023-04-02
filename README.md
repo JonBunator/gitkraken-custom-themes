@@ -4,7 +4,7 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 
 # Installation
 - You can find all available themes in the [Themes](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes) folder.
-- Copy the \*.jsonc file of your desired theme in your GitKraken theme folder. On Windows it's usually located at: `C:\Users\Username\AppData\Roaming\.gitkraken\themes`. `While for macOS, it's located at /Users/$USER/.gitkraken/themes`.
+- Copy the \*.jsonc file of your desired theme in your GitKraken theme folder. On Windows it's usually located at: `C:\Users\Username\AppData\Roaming\.gitkraken\themes`. While for macOS, it's located at `/Users/$USER/.gitkraken/themes`.
 - Select your theme under `Preferences -> UI Customization`.
 - See also the official GitKraken [Documentation](https://support.gitkraken.com/start-here/themes/).
 

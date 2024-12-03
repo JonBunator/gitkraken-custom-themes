@@ -1,6 +1,6 @@
 {
   "meta": {
-    "name": "GitKraken Dark - Oled Dream",
+    "name": "Oled Dream",
     "scheme": "dark", // must be "light" or "dark"
   },
   "themeValues": {

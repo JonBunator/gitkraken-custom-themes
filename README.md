@@ -24,6 +24,9 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 ## [Nord](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Nord) - ([Source](https://www.nordtheme.com/))
 # ![NordDarkTheme](images/nord-dark.png)
 
+## [Oled Dream](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/Oled%20Dream)
+# ![OledDreamTheme](images/oled-dream.png)
+
 ## [OneDark](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/OneDark) - ([Source](https://github.com/atom/atom/tree/master/packages/one-dark-syntax))
 # ![OneDarkTheme](images/one-dark.png)
 

@@ -1,10 +1,29 @@
 ![GitKrakenCustomThemes](images/logo.png)
-## Collection of custom themes for [GitKraken](https://www.gitkraken.com/)
+# Collection of custom themes for [GitKraken](https://www.gitkraken.com/)
 Give your GitKraken client a whole new look with these custom themes.
 > [!NOTE]
 > This repository is not an official GitKraken repository.
 
-[TOC]
+# Table of Contents
+- [Dark Themes](#dark-themes)
+  - [Dracula](#dracula---source)
+  - [Monochrome](#monochrome)
+  - [Monokai](#monokai---source)
+  - [Night Owl](#night-owl---source)
+  - [Nord](#nord---source)
+  - [Oled Dream](#oled-dream)
+  - [OneDark](#onedark---source)
+  - [Poimandres](#poimandres---source)
+  - [Solarized](#solarized---source)
+  - [Tokyo Night](#tokyo-night---source-based-on)
+  - [1984](#1984---source)
+  - [GitKraken-Dark Color Blind](#gitkraken-dark-color-blind---source)
+- [Light Themes](#light-themes)
+  - [Light Owl](#light-owl---source)
+  - [Solarized](#solarized---source-1)
+  - [GitKraken-Light Color Blind](#gitkraken-light-color-blind---source)
+- [Other Themes](#other-themes)
+- [Contributions](#contributions)
 
 # Installation
 - You can find all available themes in the [Themes](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes) folder.

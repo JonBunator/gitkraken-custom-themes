@@ -1,8 +1,6 @@
 ![GitKrakenCustomThemes](images/logo.png)
 # Collection of custom themes for [GitKraken](https://www.gitkraken.com/)
-Give your GitKraken client a whole new look with these custom themes.
-> [!NOTE]
-> This repository is not an official GitKraken repository.
+Give your GitKraken client a whole new look with these custom themes. Note that this repository is not an official GitKraken repository.
 
 # Table of Contents
 - [Dark Themes](#dark-themes)

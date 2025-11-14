@@ -90,6 +90,7 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 Contributions are always welcome. New themes should not be too similar to other themes in this repository and should look good.
 
 Thanks to everyone that has contributed so far!
+
 <a href="https://github.com/jonbunator/gitkraken-custom-themes/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jonbunator/gitkraken-custom-themes" />
 </a>

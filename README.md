@@ -63,6 +63,9 @@ Give your GitKraken client a whole new look with these custom themes. Note that 
 ## [1984](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/1984) - ([Source](https://github.com/juanmnl/vs-1984))
 ![1984Theme](images/1984-dark.png)
 
+## [FranticDreamer's Crimson](https://github.com/JonBunator/gitkraken-custom-themes/tree/master/Themes/FranticDreamersCrimson) - ([Source](https://github.com/edgarbarney/gitkraken-custom-themes/tree/master/Themes/FranticDreamersCrimson))
+![FranticCrimsonTheme](images/frantic-crimson.png)
+
 ## [GitKraken-Dark Color Blind](https://github.com/JonBunator/gitkraken-custom-themes/blob/master/Themes/Default%20Themes%20Modified) - ([Source](https://personal.sron.nl/~pault))
 ![GitKrakenDarkColorBlind](images/gitkraken-dark-color-blind.png)
 
